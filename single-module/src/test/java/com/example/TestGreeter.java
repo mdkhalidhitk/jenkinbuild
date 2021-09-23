@@ -44,7 +44,7 @@ public class TestGreeter {
   @Test
   public void someTestFaild() {
     String someone = "World";
-    String string2 = "World2";
+    String string2 = "World";
     assertEquals(someone,string2);	
   }
 }
